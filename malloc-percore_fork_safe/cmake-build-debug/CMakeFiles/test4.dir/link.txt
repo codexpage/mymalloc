@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/test4.dir/calloc.c.o CMakeFiles/test4.dir/free.c.o CMakeFiles/test4.dir/malloc.c.o CMakeFiles/test4.dir/realloc.c.o CMakeFiles/test4.dir/reallocarray.c.o CMakeFiles/test4.dir/simple-test.c.o CMakeFiles/test4.dir/util.c.o CMakeFiles/test4.dir/arena.c.o  -o test4 -lpthread 

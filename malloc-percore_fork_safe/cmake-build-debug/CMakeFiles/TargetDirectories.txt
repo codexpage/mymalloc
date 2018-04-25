@@ -1,0 +1,7 @@
+/home/ywx/Desktop/computer_system/hw3/hw3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ywx/Desktop/computer_system/hw3/hw3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ywx/Desktop/computer_system/hw3/hw3/cmake-build-debug/CMakeFiles/test3.dir
+/home/ywx/Desktop/computer_system/hw3/hw3/cmake-build-debug/CMakeFiles/test2.dir
+/home/ywx/Desktop/computer_system/hw3/hw3/cmake-build-debug/CMakeFiles/test4.dir
+/home/ywx/Desktop/computer_system/hw3/hw3/cmake-build-debug/CMakeFiles/mytest.dir
+/home/ywx/Desktop/computer_system/hw3/hw3/cmake-build-debug/CMakeFiles/hw3.dir
